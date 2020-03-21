@@ -4,6 +4,8 @@ Tool for lexical analysis of text data
 ## Sample output
 `---text1.tx--- `    name of the analyzed file
 
+//Fixme:Please correct this code TOmasz Budziszewski
+
 `Char count: 761674`  number of characters in the file (without white-spaces)
 
 `Word count: 188912`  number of words in the file
